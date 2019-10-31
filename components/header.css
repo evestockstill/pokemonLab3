@@ -1,0 +1,14 @@
+/* .hero {
+ display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem; 
+ min-height: 350px;
+ font-size: 1.5em;
+ color: white;
+ background-image: linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)), url('./assets/bigPoke.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+} */
