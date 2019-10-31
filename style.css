@@ -23,7 +23,7 @@ p {
  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 1rem; 
- min-height: 400px;
+ min-height: 500px;
  font-size: 3em;
  text-shadow: 1px 1px 1px black;
  color: white;
